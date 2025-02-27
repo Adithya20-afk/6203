@@ -2,10 +2,10 @@
 #include<conio.h>
 int main()
 {
-	int a,b,sum;
-	cout<<"enter the two values";
-	cin>>a>>b;
-	sum=a+b;
+	int a,b,c,sum;
+	cout<<"enter three values";
+	cin>>a>>b>>c;
+	sum=a+b+c;
 	cout<<"sum is"<<sum;
 	getch();
 }
